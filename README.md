@@ -1,11 +1,11 @@
-# 📌 Nome do Projeto
-Digite aqui o nome do seu projeto
+# 📌 Atividade Front end 2 DS
+
 ## 📚 Descrição do Projeto
 Este projeto foi criado para praiticar
 O objetivo do sistema écriar um projeto 
 ## 🚧 Status do Projeto
-(x) Em desenvolvimento
-( ) Finalizado
+( ) Em desenvolvimento
+(x) Finalizado
 ## 🔨 Funcionalidades
 - Aprendizado
 - Estudo 
@@ -16,6 +16,7 @@ Classrom
 -Alura
 ## 📁 Acesso ao Projeto
 O projeto pode ser acessado no meu repositório do GitHub.
+
 ## 👨‍💻 Autor
 Nome: Joao Vitor Czadotz
 GitHub: @Noxky
