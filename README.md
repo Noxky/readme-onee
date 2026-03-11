@@ -16,7 +16,7 @@ O foco foi entender como as coisas funcionam na web.
 
 - Estudo
 
-- Auxiliar o estdante
+- Auxiliar o estudante
 ## 💻 Tecnologias Utilizadas
 - GitHub
 
